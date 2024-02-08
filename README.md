@@ -1,5 +1,7 @@
 # Achilles Gym
 
+![Achillies Gym Screenshot](AchilliesGym.png)
+
 ## WordPress Theme for Gym
 
 The Achilles Gym project originated in college as an assignment for the subject **CMS Systems**.
